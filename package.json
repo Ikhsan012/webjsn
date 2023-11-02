@@ -1,0 +1,9 @@
+{
+  "name": "nama-proyek-anda",
+  "version": "1.0.0",
+  "description": "Deskripsi proyek Anda",
+  "dependencies": {
+    "http": "^2.0.0",
+    "path": "^2.0.0"
+  }
+}
